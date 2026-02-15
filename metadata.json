@@ -1,0 +1,5 @@
+{
+  "name": "Gravity Acceleration Physics Lab",
+  "description": "A high-fidelity physics simulation for comparing free-fall motion of different materials and masses under varying gravity conditions.",
+  "requestFramePermissions": []
+}
